@@ -5,7 +5,7 @@ import path from 'path';
 import paymentRoutes from './routes/paymentRoutes.js';
 
 const app = express();
-
+//sdadadad
 // Configurações do Express
 app.use(express.json());  // Para aceitar JSON no corpo das requisições
 app.use(express.urlencoded({ extended: true }));  // Para parsing de formulários
